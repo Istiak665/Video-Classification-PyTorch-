@@ -1,0 +1,23 @@
+Total 3 Folder
+=======================
+1. input
+	---> data folder
+		---> class folder1
+			---> frame1.jpg
+			---> frame2.jpg
+
+		---> class folder1
+			---> frame1.jpg
+			---> frame2.jpg
+	---> test videos
+	---> metadata.csv
+2. output
+	---> where we will save the model and performance and export videos 		with predicted label
+
+3. src
+	---> cnn_models.py
+	---> predict_with_test_data.py
+	---> prepare_data.py
+	---> test.py
+	---> train.py
+	---> model.pth
