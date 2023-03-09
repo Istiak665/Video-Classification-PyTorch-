@@ -12,7 +12,7 @@ Total 3 Folder
 	---> test videos
 	---> metadata.csv
 2. output
-	---> where we will save the model and performance and export videos 		with predicted label
+	---> where we will save the model and performance and export videos with predicted label
 
 3. src
 	---> cnn_models.py
